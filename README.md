@@ -8,7 +8,7 @@ This project utilizes historical inflation data (1975–2024) to train a machine
 
 ## 📈 Dataset
 
--   **Source:** [Kaggle (South Africa Inflation Rate 1975-2026)](https://www.kaggle.com/datasets/katlegokgaswa/south-africa-inflation-rate).
+-   **Source:** Kaggle [(South Africa Inflation Rate 1975-2026)](https://www.kaggle.com/datasets/katlegokgaswa/south-africa-inflation-rate).
 -   **Features:** Monthly inflation rates (%).
 -   **Timeframe:** January 1975 – February 2026.
 -   **Nature:** Real historical data up to 2024, with economist projections for 2025-2026.
